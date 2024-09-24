@@ -5,6 +5,12 @@
 			"eleve": "Cédric",
 			"note": 16.67,
 			"date": "2024-09-14"
+		},
+		{
+			"matiere": "Maths",
+			"eleve": "Alexis",
+			"note": 18,
+			"date": "2024-09-21"
 		}
 	],
 	"MPI": [
